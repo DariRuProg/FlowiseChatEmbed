@@ -182,6 +182,7 @@ textarea {
   background-color: #02a0a0c2;
   border: 1px solid #02a0a0c2;
   border-radius: var(--chatbot-border-radius);
+  display: none !important;
 }
 
 .chatbot-button {
