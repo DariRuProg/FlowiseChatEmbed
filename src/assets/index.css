@@ -185,6 +185,11 @@ textarea {
   display: none !important;
 }
 
+.drnodisplay {
+  display: none !important;
+}
+  
+
 .chatbot-button {
   color: var(--chatbot-button-color);
   background-color: #0042da;
